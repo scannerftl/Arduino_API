@@ -13,11 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
         // home page router
 Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/test', function () {
+    return view('pages.test');
+});
 /*
 |--------------------------------------------------------------------------
 | administrator  router

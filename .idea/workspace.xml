@@ -1,15 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f0309b2-0f2e-4fef-965a-324488af74c6" name="Default Changelist" comment="" />
+    <list default="true" id="3f0309b2-0f2e-4fef-965a-324488af74c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/debugbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/css/adminlte.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/js/adminlte.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/cache/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sources/assets/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/test.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/foot.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/head.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Arduino_API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Arduino_API.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/AdminLTE.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/_all-skins.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/bootstrap-colorpicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/bootstrap-duallistbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/bootstrap-multiselect.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/bootstrap-timepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/bootstrap3-wysihtml5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/chosen.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/component-chosen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/component-chosen.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/dataTables.bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/datepicker3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/daterangepicker-bs3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/daterangepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/dropzone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/fonts.googleapis.com.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/fpdf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/jquery-jvectormap-1.2.2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/morris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/perfect-scrollbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/app.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/bootstrap-colorpicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/bootstrap-timepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/bootstrap3-wysihtml5.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/chosen.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/daterangepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/fastclick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jQuery-2.1.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery-jvectormap-1.2.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery-jvectormap-world-mill-en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery.inputmask.date.extensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery.inputmask.extensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery.inputmask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery.knob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery.slimscroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/jquery.sparkline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/morris.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sources/assets/js/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/links/js.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/links/js.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/aside.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/aside.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/template.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/template.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -115,18 +240,31 @@
       <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/jason-guru/laravel-make-repository" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gryIW27H232uiguxrYYGNhOQjo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -142,12 +280,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598886926223</updated>
-      <workItem from="1598886927567" duration="307000" />
+      <workItem from="1598886927567" duration="6781000" />
+      <workItem from="1598985207467" duration="12866000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="456" y="256" width="444" height="242" key="#Composer" timestamp="1598887007859">
@@ -158,5 +311,13 @@
       <screen x="0" y="27" width="1366" height="702" />
     </state>
     <state x="278" y="38" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.702@0.27.1366.702" timestamp="1598887233870" />
+    <state x="352" y="179" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599025384117">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="352" y="179" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.702@0.27.1366.702" timestamp="1599025384117" />
+    <state x="478" y="302" width="399" height="149" key="NewPhpFileDialog" timestamp="1599001140957">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="478" y="302" width="399" height="149" key="NewPhpFileDialog/0.27.1366.702@0.27.1366.702" timestamp="1599001140957" />
   </component>
 </project>
