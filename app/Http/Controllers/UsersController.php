@@ -45,13 +45,13 @@ class UsersController extends Controller
     }
 
     // get all sensors components in arduino
-    public function getSensorsComponents()
+    public function getSensorsComponents($arduinoId)
     {
         //
     }
 
     // get all  actuators components in arduino
-    public function getActuatorsComponents()
+    public function getActuatorsComponents($arduinoId)
     {
         //
     }
